@@ -1,0 +1,10 @@
+[user]
+	email = kalnarobert@gmail.com
+	name = kalnar
+[core]
+	editor = vim
+[alias]
+	unstage = reset HEAD --
+	last = log -1 HEAD
+	quicklog = log --oneline --decorate --graph --all
+	whitespacecheck = diff --check
